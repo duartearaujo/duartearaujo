@@ -1,4 +1,4 @@
-![main-gif](https://github.com/duartearaujo/duartearaujo/blob/main/gifgithub.gif)
+[![main-gif](https://github.com/duartearaujo/duartearaujo/blob/main/gifgithub.gif)](https://www.duartearaujo.space/)
 ## Hi, I'm Duarte 👋
 <!--
 **duartearaujo/duartearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
