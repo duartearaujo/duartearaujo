@@ -1,5 +1,5 @@
 ## Hi, I'm Duarte 👋
-
+![main-gif](https://github.com/duartearaujo/duartearaujo/blob/main/gifgithub.gif)
 <!--
 **duartearaujo/duartearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
