@@ -1,5 +1,14 @@
 [![main-gif](https://github.com/duartearaujo/duartearaujo/blob/main/gifgithub1.gif)](https://www.duartearaujo.space/)
 ## Hi, I'm Duarte 👋
+
+### Skills
+<p align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,js,ts,html,css,tailwind,react,vue,nodejs,mongodb,postgres,docker,postman" width="40" height="40"/>
+  </a>
+</p>
+
+
 <!--
 **duartearaujo/duartearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
