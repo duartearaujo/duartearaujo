@@ -1,4 +1,4 @@
-[![main-gif](https://github.com/duartearaujo/duartearaujo/blob/main/gifgithub1.gif)](https://www.duartearaujo.space/)
+[![main-gif](https://github.com/duartearaujo/duartearaujo/blob/main/gitgif.gif)](https://www.duartearaujo.space/)
 ## Hi, I'm Duarte 👋
 
 ### Skills
